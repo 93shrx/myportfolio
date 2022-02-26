@@ -1,0 +1,36 @@
+
+.main-container{
+    height:400px;
+    position: absolute;
+    left:150px;
+    top:80px;
+    margin-left:120px;
+}
+
+.header{
+    font-family: 'IBM Plex Sans-bold', sans-serif;
+    font-size:2.5em;
+}
+
+.header2{
+    font-family:'IBM Plex Sans', sans-serif;
+    font-size: 1.8em;
+    color:rgb(85, 85, 85);
+    
+}
+
+.image{
+    position:absolute;
+    left:450px;
+    top:30px;
+    
+}
+
+
+.indicator{
+    height:139px;
+    border-left:2px dashed #876bf5;
+    position:absolute;
+    top:400px;
+    left:350px;
+}
